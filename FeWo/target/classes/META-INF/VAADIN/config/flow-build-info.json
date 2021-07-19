@@ -1,0 +1,14 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\rajan\\IdeaProjects\\Fewo",
+  "generatedFolder": "C:\\Users\\rajan\\IdeaProjects\\Fewo\\target\\frontend",
+  "frontendFolder": "C:\\Users\\rajan\\IdeaProjects\\Fewo\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\rajan\\IdeaProjects\\Fewo\\src\\main\\java",
+  "connect.applicationProperties": "C:\\Users\\rajan\\IdeaProjects\\Fewo\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\rajan\\IdeaProjects\\Fewo\\target\\generated-resources\\openapi.json",
+  "connect.generated": "C:\\Users\\rajan\\IdeaProjects\\Fewo\\frontend\\generated",
+  "pnpm.enable": true,
+  "require.home.node": false
+}
